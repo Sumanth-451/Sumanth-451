@@ -1,4 +1,4 @@
-![MasterHead](https://img.freepik.com/free-photo/programming-background-collage_23-2149901789.jpg?ga=GA1.1.1719849280.1743538304&semt=ais_hybrid)
+![MasterHead](https://cdn.pixabay.com/photo/2016/10/23/18/11/banner-1763847_1280.jpg)
 <h1 align="center">Hi 👋, I'm Sumanth Thota</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
