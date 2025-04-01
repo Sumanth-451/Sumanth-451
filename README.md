@@ -56,7 +56,7 @@
 - Integrated with API. 
 - [View Project](https://github.com/Sumanth-451/Weather1)  
 
-### **👁️ Real-Time Object Detection**  
+<!--### **👁️ Real-Time Object Detection**  
 - Computer vision using OpenCV  
 - Custom-trained YOLO model  
 - [View Project](#)  
