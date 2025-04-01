@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumanth-451&label=Profile%20views&color=0e75b6&style=flat" alt="sumanth-451" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumanth-451" alt="sumanth-451" /></a> </p>
+< img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-photo/person-playing-3d-video-games-device_23-2151005751.jpg?t=st=1743538310~exp=1743541910~hmac=4399e7a9b9b46cb185e50fd4c92180001e752ddb0996d2ed4f938b99995bdd00&w=1380">
 
 - 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
 
