@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.pixabay.com/photo/2016/10/23/18/11/banner-1763847_1280.jpg)
+![MasterHead]("C:\Users\suman\OneDrive\Desktop\White Minimalist Profile LinkedIn Banner.png")
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sumanth-451&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -57,7 +57,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sumanth-451&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
-<p align="center">
+<!--<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sumanth-451&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true" alt="GitHub Stats" />
 </p>
 
