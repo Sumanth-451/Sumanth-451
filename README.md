@@ -1,4 +1,4 @@
-![MasterHead]("C:\Users\suman\OneDrive\Desktop\White Minimalist Profile LinkedIn Banner.png")
+![MasterHead]("file:///C:/Users/suman/OneDrive/Desktop/White%20Minimalist%20Profile%20LinkedIn%20Banner.png")
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sumanth-451&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
