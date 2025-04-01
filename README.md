@@ -4,7 +4,7 @@
 <h3 align="center">🚀 A Passionate Frontend Developer from India 🌍</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sumanth-451&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.freepik.com/free-photo/3d-portrait-people_23-2150793856.jpg?t=st=1743539197~exp=1743542797~hmac=fa382b8a975b31e5b23845eac0c52cb9c7fbc6a43ecbed10b634e826c87d3c14&w=1380" />
 </p>
 
 ---
@@ -52,7 +52,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sumanth-451&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
-<p align="center">
+<!--<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sumanth-451&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true" alt="GitHub Stats" />
 </p>
 
