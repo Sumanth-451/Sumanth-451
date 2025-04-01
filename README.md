@@ -1,10 +1,10 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://img.freepik.com/free-photo/person-playing-3d-video-games-device_23-2151005751.jpg?t=st=1743538310~exp=1743541910~hmac=4399e7a9b9b46cb185e50fd4c92180001e752ddb0996d2ed4f938b99995bdd00&w=1380")](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Sumanth Thota</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumanth-451&label=Profile%20views&color=0e75b6&style=flat" alt="sumanth-451" /> </p>
 
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-photo/person-playing-3d-video-games-device_23-2151005751.jpg?t=st=1743538310~exp=1743541910~hmac=4399e7a9b9b46cb185e50fd4c92180001e752ddb0996d2ed4f938b99995bdd00&w=1380">
+<img align="right" alt="Coding" width="400" src=">
 
 - 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
 
