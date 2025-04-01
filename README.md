@@ -51,10 +51,10 @@
 - Features natural language understanding  
 - [View Project](https://github.com/Sumanth-451/Ayurbot)  
 
-### **🌐 Full-Stack E-Commerce App**  
-- MERN stack application with JWT auth  
-- Integrated payment gateway  
-- [View Project](#)  
+### **🌐 Weather App**  
+- Real-time weather updates for any location worldwide.
+- Integrated with API. 
+- [View Project](https://github.com/Sumanth-451/Weather1)  
 
 ### **👁️ Real-Time Object Detection**  
 - Computer vision using OpenCV  
