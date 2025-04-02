@@ -56,6 +56,13 @@
 - Integrated with API. 
 - [View Project](https://github.com/Sumanth-451/Weather1)  
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
+
 <!--### **👁️ Real-Time Object Detection**  
 - Computer vision using OpenCV  
 - Custom-trained YOLO model  
