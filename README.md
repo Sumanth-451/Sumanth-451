@@ -40,7 +40,7 @@
 
 ## **🛠️ Tech Stack**  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,nodejs,express,mongodb,mysql,git,tailwind,bootstrap,opencv,tensorflow,pytorch&perline=9" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,nodejs,express,mongodb,mysql,git,tailwind,opencv,tensorflow,pytorch&perline=9" alt="Tech Stack" />
 </p>
 
 ---
