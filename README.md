@@ -57,7 +57,7 @@
 - [View Project](https://github.com/Sumanth-451/Weather1)  
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumanth-451&show_icons=true&locale=en" alt="sumanth-451" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumanth-451&show_icons=true&locale=en" alt="sumanth-451" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumanth-451&" alt="sumanth-451" /></p>
 
