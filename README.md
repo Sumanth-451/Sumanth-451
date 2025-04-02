@@ -56,7 +56,7 @@
 - Integrated with API. 
 - [View Project](https://github.com/Sumanth-451/Weather1)  
 
-<picture>
+<!--<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sumanth-451/Sumanth-451/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sumanth-451/Sumanth-451/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Sumanth-451/Sumanth-451/output/github-snake.svg" />
