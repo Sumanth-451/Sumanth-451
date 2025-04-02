@@ -56,6 +56,12 @@
 - Integrated with API. 
 - [View Project](https://github.com/Sumanth-451/Weather1)  
 
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumanth-451&show_icons=true&locale=en" alt="sumanth-451" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumanth-451&" alt="sumanth-451" /></p>
+
+
 <!--<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sumanth-451/Sumanth-451/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sumanth-451/Sumanth-451/output/github-snake.svg" />
