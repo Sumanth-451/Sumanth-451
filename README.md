@@ -13,7 +13,7 @@
 - 🔭 Currently learning **AI & Machine Learning**  
 - 💻 Passionate about **Web Dev, Python, and Problem Solving**  
 - 📫 Reach me at **sumanththota987@gmail.com**  
-- ⚡ **Fun Fact:** *"E" is the most common letter in English (11% of words). Guess who's unique? 😉*  
+- ⚡ **Fun Fact:** *"E" is the most common letter in English (11% of words). Guess who's uniquEEEE? 😉*  
 
 ---
 
